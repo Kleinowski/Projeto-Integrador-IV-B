@@ -1,0 +1,42 @@
+[
+  {
+    "cliente_id": "1",
+    "nome": "Miguel Cunha",
+    "endereco": "Rua Professor Ari de Sá Cavalcante 1203",
+    "cep": "60331-350",
+    "data_nascimento": "02/08/1934",
+    "telefone": "(85) 5557-3318"
+  },
+  {
+    "cliente_id": "2",
+    "nome": "Giovanna Martins",
+    "endereco": "Quadra Quadra 174",
+    "cep": "72855-174",
+    "data_nascimento": "19/11/1943",
+    "telefone": "(61) 5377-9379"
+  },
+  {
+    "cliente_id": "3",
+    "nome": "Kauan Pereira",
+    "endereco": "Rua Teresa 1857",
+    "cep": "25625-027",
+    "data_nascimento": "13/07/1971",
+    "telefone": "(24) 9475-9937"
+  },
+  {
+    "cliente_id": "4",
+    "nome": "Vitoria Carvalho",
+    "endereco": "Rua SP-60 512",
+    "cep": "38411-530",
+    "data_nascimento": "07/06/1934",  
+    "telefone": "(34) 6891-3878"                      
+  },
+  {
+    "cliente_id": "5",
+    "nome": "Diego Castro",
+    "endereco": "Rua Osório Duque Estrada 1163",
+    "cep": "91910-550",
+    "data_nascimento": "30/11/2000",
+    "telefone": "(51) 9695-8107"
+  }
+]
